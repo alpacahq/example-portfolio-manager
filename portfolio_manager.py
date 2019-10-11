@@ -1,5 +1,4 @@
 import alpaca_trade_api as tradeapi
-import os
 import threading
 import time
 
