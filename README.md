@@ -27,6 +27,7 @@ The `block` order style blocks the process indifinitely until orders are execute
 
 ```py
 import os
+from portfolio_manager import PortfolioManager
 
 os.environ['APCA_API_KEY_ID'] = 'API_KEY_ID'
 os.environ['APCA_API_SECRET_KEY'] = 'API_SECRET_KEY'
